@@ -54,23 +54,23 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
   },
   {
-    title: "Portfolio Website",
+    title: "Weather Data Analysis",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "Weather Dashboard and Comparing different weather data of two different cities by visualization",
+    technologies: ["HTML", "CSS", "Flask", "TailwindCSS","DaisyUI" ,"mySQL"],
   },
   {
-    title: "Blogging Platform",
+    title: "Explorium",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "An activity suggestion application based on Bored-API data",
+    technologies: ["HTML", "CSS", "Django", "TailwindCSS", "mySQL"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Chennai, Tamil Nadu, India",
+  phoneNo: "SHH",
+  email: "vishaallsv@gmail.com",
 };
