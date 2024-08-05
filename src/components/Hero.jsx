@@ -39,7 +39,7 @@ const Hero = () => {
         </div>
                 <div className=" w-full lg:w-1/2 lg:px-8 lg:py-4 overflow-hidden flex justify-center items-center">
           <motion.img  initial={{x:100, opacity:0}} animate={{x:0, opacity:1}} transition={{delay:1.2, duration:1}}
-           src={profilePic} alt="Profile" className="mr-10 rounded-full max-w-96 h-96" />
+           src={profilePic} alt="Profile" className="mr-10 rounded-xl  max-w-96 h-96" />
         </div>
       </div>
     </div>
